@@ -2,6 +2,11 @@
     font: 400 0.75rem/1.35 "Poppins", sans-serif;
 }
 
+.font-1-xs-b {
+    font: 600 0.75rem/1.35 "Poppins", sans-serif;
+    text-transform: uppercase;
+}
+
 .font-2-xs {
     font: 400 0.85rem/1.43 "Roboto", sans-serif;
 }
